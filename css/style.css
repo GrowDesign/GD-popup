@@ -1,0 +1,9 @@
+a.popup, a.popup:hover {
+	font-weight: inherit !important;
+	color: inherit !important;
+	border: none !important;
+}
+
+div.popup-wrapper {
+	display: none;
+}
