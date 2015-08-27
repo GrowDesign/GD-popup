@@ -4,7 +4,7 @@
 Plugin Name: GD Popup
 Plugin URI: http://seismosoc.org/
 Description: Used by millions, to make WP POP.
-Version: 1.0.1
+Version: 1.0.2
 Author: Bradford Knowlton
 Author URI: http://bradknowlton.com/
 GitHub Plugin URI: https://github.com/GrowDesign/GD-popup
